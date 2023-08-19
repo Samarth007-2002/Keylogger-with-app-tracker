@@ -1,6 +1,6 @@
 # Application-specific-keylogger
 
-Features
+Features /n
 Targeted Logging: This project logs keystrokes specifically for each active application, allowing you to understand user behavior within different software environments.
 
 Structured Logs: Logs are intelligently organized into folders based on the year, month, and day of the recording, providing easy access and reference to historical user interactions.
