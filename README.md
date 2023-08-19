@@ -1,4 +1,4 @@
-# Features
+# Project Highlights
 
 Targeted Logging: This project logs keystrokes specifically for each active application, allowing you to understand user behavior within different software environments.
 
